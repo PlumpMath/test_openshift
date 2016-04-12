@@ -15,6 +15,8 @@
 ;;     (migrations/migrate ["migrate"] (env :database-url))
 ;;     (f)))
 
+;; asdasd
+
 ;; (deftest test-users
 ;;   (jdbc/with-db-transaction [t-conn *db*]
 ;;     (jdbc/db-set-rollback-only! t-conn)
